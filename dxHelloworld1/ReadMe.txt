@@ -1,45 +1,45 @@
 ﻿========================================================================
-    WIN32 应用程序：dxHelloworld1 项目概述
+WIN32 Application: DxHelloworld1 Project Overview
 ========================================================================
 
-应用程序向导已为您创建了此 dxHelloworld1 应用程序。
+The Application wizard has created this dxHelloworld1 application for you.
 
-本文件概要介绍组成 dxHelloworld1 应用程序的每个文件的内容。
+This document outlines the contents of each file that makes up the dxHelloworld1 application.
 
 
-dxHelloworld1.vcxproj
-    这是使用应用程序向导生成的 VC++ 项目的主项目文件，其中包含生成该文件的 Visual C++ 的版本信息，以及有关使用应用程序向导选择的平台、配置和项目功能的信息。
+DxHelloworld1.vcxproj
+This is the main project file for VC ++ projects generated using the Application Wizard, which contains the version information of Visual C++ that generates the file, and information about the platforms, configurations, and project features selected by using the Application Wizard.
 
-dxHelloworld1.vcxproj.filters
-    这是使用“应用程序向导”生成的 VC++ 项目筛选器文件。它包含有关项目文件与筛选器之间的关联信息。在 IDE 中，通过这种关联，在特定节点下以分组形式显示具有相似扩展名的文件。例如，“.cpp”文件与“源文件”筛选器关联。
+DxHelloworld1.vcxproj.filters
+This is the VC ++ project filter file that is generated using the Application Wizard. It contains information about the association between the project file and the filter. In the IDE, this association displays files with similar extensions in grouped form under specific nodes. For example, the .cpp file is associated with the source file filter.
 
-dxHelloworld1.cpp
-    这是主应用程序源文件。
+DxHelloworld1.cpp
+This is the main application source file.
 
 /////////////////////////////////////////////////////////////////////////////
-应用程序向导创建了下列资源：
+The application wizard creates the following resources:
 
-dxHelloworld1.rc
-    这是程序使用的所有 Microsoft Windows 资源的列表。它包括 RES 子目录中存储的图标、位图和光标。此文件可以直接在 Microsoft Visual C++ 中进行编辑。
+DxHelloworld1.rc
+This is a list of all Microsoft Windows resources that the program uses. It includes icons, bitmaps, and cursors stored in the RES subdirectory. This file can be edited directly in Microsoft Visual C++.
 
 Resource.h
-    这是标准头文件，可用于定义新的资源 ID。Microsoft Visual C++ 将读取并更新此文件。
+This is a standard header file that can be used to define a new resource ID. Microsoft Visual C++ will read and update this file.
 
-dxHelloworld1.ico
-    这是用作应用程序图标 (32x32) 的图标文件。此图标包括在主资源文件 dxHelloworld1.rc 中。
+DxHelloworld1.ico
+This is an icon file used as an application icon (32x32). This icon is included in the main resource file dxHelloworld1.rc.
 
-small.ico
-    这是一个图标文件，其中包含应用程序的图标的较小版本 (16x16)。此图标包括在主资源文件 dxHelloworld1.rc 中。
+Small.ico
+This is an icon file that contains a smaller version of the application's icon (16x16). This icon is included in the main resource file dxHelloworld1.rc.
 
 /////////////////////////////////////////////////////////////////////////////
-其他标准文件:
+Other standard documents:
 
 StdAfx.h, StdAfx.cpp
-    这些文件用于生成名为 dxHelloworld1.pch 的预编译头 (PCH) 文件和名为 StdAfx.obj 的预编译类型文件。
+These files are used to generate a precompiled header (PCH) file named DxHelloworld1.pch and a precompiled type file named StdAfx.obj.
 
 /////////////////////////////////////////////////////////////////////////////
-其他注释:
+Other Notes:
 
-应用程序向导使用“TODO:”注释来指示应添加或自定义的源代码部分。
+The application Wizard uses "TODO:" comments to indicate parts of the source code that should be added or customized.
 
 /////////////////////////////////////////////////////////////////////////////

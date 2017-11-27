@@ -14,7 +14,8 @@
 #include "debugwindowclass.h"
 
 #pragma comment (lib, "d3d11.lib")
-#pragma comment (lib, "openvr_api.lib")
+
+//#pragma comment (lib, "openvr_api.lib")
 
 #define MAX_LOADSTRING 100
 //#define VR_DISABLED
@@ -22,7 +23,7 @@
 // 全局变量: 
 HINSTANCE hInst;                                // 当前实例
 WCHAR szTitle[MAX_LOADSTRING];                  // 标题栏文本
-WCHAR szWindowClass[MAX_LOADSTRING];            // 主窗口类名
+WCHAR szWindowClass[MAX_LOADSTRING];            // 主窗口类名1
 UINT clientWidth =  1280;
 UINT clientHeight =  720;
 const float SCREEN_DEPTH = 1000.0f;
